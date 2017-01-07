@@ -1,0 +1,29 @@
+{
+  "name": "force-directed-map",
+  "version": "1.0.0",
+  "description": "Free Code Camp's Show National Contiguity with a Force Directed Graph",
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "keywords": [
+    "js",
+    "force",
+    "directed",
+    "map",
+    "d3"
+  ],
+  "author": "Vanco Stojkov <vanco@stojkov.me> (http://stojkov.me)",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^4.4.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-middleware": "^1.9.0",
+    "webpack-hot-middleware": "^2.13.2"
+  }
+}
