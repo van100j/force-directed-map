@@ -1,4 +1,4 @@
-Show National Contiguity with a Force Directed Graph
+Show National Contiguity with a Force Directed Graph 
 =====================
 
 [FCC's Show National Contiguity with a Force Directed Graph challenge](https://www.freecodecamp.com/challenges/show-national-contiguity-with-a-force-directed-graph):
